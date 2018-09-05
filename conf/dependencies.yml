@@ -1,0 +1,4 @@
+self: play -> formation 0.1
+
+require:
+    - play
